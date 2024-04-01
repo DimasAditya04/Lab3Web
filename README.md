@@ -8,7 +8,7 @@
 
 - Untuk menjalankan MySQL Server dari menu XAMPP Contol.
 
-![MySQL](img/MySQL_Server.PNG)
+![MySQL](img/MySQL_Server.png)
 
 - Pastikan Web server Apache dan MySQL Server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
 
@@ -43,7 +43,7 @@ CREATE TABLE data_barang(
 INSERT INTO `data_barang` (`id_barang`, `nama`, `kategori`, `gambar`, `harga_beli`, `harga_jual`, `stok`) VALUES (NULL, 'HP Samsung Android', 'Elektronik', 'gambar/HP samsung.jpg', '30000000', '30500000', '1'), (NULL, 'HP Xiaomi', 'Elektronik', 'gambar/HP xiaomi.jpg', '6070000', '6080000', '2');
 ```
 
-![Data Barang](img/databarang.PNG)
+![Data Barang](img/databarang.png)
 
 ## Membuat Program CRUD
 
@@ -470,7 +470,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 - Maka hasilnya akan seperti berikut.
 
-![Update](img/ubahbarang.PNG)
+![Update](img/ubahbarang.png)
 
 ## Menghapus Data (Delete)
 
