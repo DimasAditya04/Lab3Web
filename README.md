@@ -8,7 +8,7 @@
 
 - Untuk menjalankan MySQL Server dari menu XAMPP Contol.
 
-![MySQL](![MySQL_Server](https://github.com/DimasAditya04/Lab3Web/assets/130146099/6240f94d-e134-4551-b602-c83c2842f9d0))
+![MySQL](img/MySQL_Server.jpg)
 
 
 - Pastikan Web server Apache dan MySQL Server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
@@ -44,7 +44,7 @@ CREATE TABLE data_barang(
 INSERT INTO `data_barang` (`id_barang`, `nama`, `kategori`, `gambar`, `harga_beli`, `harga_jual`, `stok`) VALUES (NULL, 'HP Samsung Android', 'Elektronik', 'gambar/HP samsung.jpg', '30000000', '30500000', '1'), (NULL, 'HP Xiaomi', 'Elektronik', 'gambar/HP xiaomi.jpg', '6070000', '6080000', '2');
 ```
 
-![Data Barang](![databarang](https://github.com/DimasAditya04/Lab3Web/assets/130146099/b188108d-2c49-494a-997e-5a276cd6b7a5))
+![Data Barang](![databarang](https://github.com/DimasAditya04/Lab3Web/assets/130146099/a2583710-6638-4420-ba65-ac0d26727b7f))
 
 
 ## Membuat Program CRUD
