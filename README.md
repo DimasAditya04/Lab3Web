@@ -6,9 +6,10 @@
 
 ## Menjalankan MySQL Server
 
-- Untuk menjalankan MySQL Server dari menu XAMPP Contol.
+- Untuk menjalankan MySQL Server dari menu XAMPP Control.
 
-![MySQL](img/MySQL_Server.jpg)
+![MySQL_Server](https://github.com/DimasAditya04/Lab3Web/assets/130146099/9fbec773-44d2-420a-adec-e48c58a55131)
+
 
 
 - Pastikan Web server Apache dan MySQL Server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
@@ -44,7 +45,8 @@ CREATE TABLE data_barang(
 INSERT INTO `data_barang` (`id_barang`, `nama`, `kategori`, `gambar`, `harga_beli`, `harga_jual`, `stok`) VALUES (NULL, 'HP Samsung Android', 'Elektronik', 'gambar/HP samsung.jpg', '30000000', '30500000', '1'), (NULL, 'HP Xiaomi', 'Elektronik', 'gambar/HP xiaomi.jpg', '6070000', '6080000', '2');
 ```
 
-![Data Barang](![databarang](https://github.com/DimasAditya04/Lab3Web/assets/130146099/a2583710-6638-4420-ba65-ac0d26727b7f))
+![databarang](https://github.com/DimasAditya04/Lab3Web/assets/130146099/90976e8b-923c-44b9-9a50-c5ed6901a5b8)
+
 
 
 ## Membuat Program CRUD
@@ -472,7 +474,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 - Maka hasilnya akan seperti berikut.
 
-![Update](![ubahbarang](https://github.com/DimasAditya04/Lab3Web/assets/130146099/4812cd0f-bf34-42a3-b8c7-173ee54c7e6c))
+![ubahbarang](https://github.com/DimasAditya04/Lab3Web/assets/130146099/ece9d175-4e74-4f62-ae37-d8c37c92287a)
+
 
 
 ## Menghapus Data (Delete)
