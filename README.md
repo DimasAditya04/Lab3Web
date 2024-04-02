@@ -1,5 +1,13 @@
 # Tugas Pemograman Web 2
 
+NAMA    : DIMAS ADITYA PUTRANTO
+
+KELAS    : TI.22.A5
+
+NIM    : 312210489
+
+MATKUL    : PEMROGRAMAN WEB 2
+
 # Persiapan
 
 <p>Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adalah database server menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.</p>
