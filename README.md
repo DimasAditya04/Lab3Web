@@ -186,7 +186,8 @@ $result = mysqli_query($conn, $query);
 
 - Maka hasilnya akan seperti berikut.
 
-![Read](img/read.PNG)
+![read](https://github.com/DimasAditya04/Lab3Web/assets/130146099/96f3df27-4902-454a-aa20-cf4d72fbbb84)
+
 
 ## Menambah Data (Create)
 
